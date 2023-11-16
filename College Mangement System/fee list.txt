@@ -1,0 +1,7 @@
+1	muneeb	computer	science	
+2	saqlain	english	3rd	
+3	adeel	zology	4th	
+4	asad	urdu	5th	
+21	yasir	biology	7th	10000
+88	saif	computer-science	3rd	70000
+88	saif	computer-science	3rd	5000

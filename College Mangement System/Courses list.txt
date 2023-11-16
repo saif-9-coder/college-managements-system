@@ -1,0 +1,27 @@
+1	muneeb	computer	science	
+	csi-321
+	dsa-123
+2	saqlain	english	3rd	
+	ai-111
+	ne
+3	adeel	zology	4th	
+	dsa-123
+	java-444
+4	asad	urdu	5th	
+	se
+	ne
+21	yasir	biology	7th	
+	Java-444
+	se-123
+88	saif	computer-science	3rd	
+	SE-222
+	AI-111
+45	SAIFEE	BIO	4th	
+	csi-321
+	java-444
+1	sam	bscs	3	
+	2csi-321
+	se
+1	15	gfds	ytr	
+	ds_23
+	hfgdf_654

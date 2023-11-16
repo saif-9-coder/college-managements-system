@@ -1,0 +1,12 @@
+1	muneeb	computer	science	
+	dsa
+	csi-321
+2	saqlain	english	3rd	
+	ai-111
+	NE-123
+21	yasir	biology	7th	
+	java-paper
+	se-paper
+88	saif	computer-science	3rd	
+	software-engener
+	Atifical

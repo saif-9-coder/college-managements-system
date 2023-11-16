@@ -1,0 +1,7 @@
+1	muneeb	computer	science	80
+2	saqlain	english	3rd	75%
+3	adeel	zology	4th	90%
+4	asad	urdu	5th	67%
+21	yasir	biology	7th	80%
+88	saif	computer-science	3rd	90%
+45	SAIFEE	BIO	4th	90%
